@@ -1,0 +1,22 @@
+{
+  "name": "m3-wk4-day1-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SGE176/m3-wk4-day1-homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SGE176/m3-wk4-day1-homework/issues"
+  },
+  "homepage": "https://github.com/SGE176/m3-wk4-day1-homework#readme",
+  "dependencies": {
+    "less": "^4.1.2"
+  }
+}
